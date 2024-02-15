@@ -1,4 +1,5 @@
 👋 Merhaba, ben @SerhatCaliskann
+Yeni oyun fikirleri aklıma geldikçe buraya yüklemekten mutluluk duyuyorum.
 
 # Benim Oyunlarım
 
