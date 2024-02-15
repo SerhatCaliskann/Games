@@ -1,0 +1,10 @@
+4 kişinin aynı anda arkadaşlarıyla beraber oynayabileceği bir araba yarışı oyunu
+piyasada bu tarz oyunlar çok fazla var ama bu oyunun diğerlerinden farkı,
+araçların güçlerinin fabrika verilerine göre ve yakıt tüketimlerinide baz alarak
+yapılan bir oyun sistemi.
+oyun içerisinde kişi verdiği oyun parası karşılığında benzin veya mazotunu alabilir
+ayın zamanda oyun içerisindeki parası karşılığı aracını modifiye edebilir.
+yarış esnasında farklı oyunlarda da bulunan eklentileri önce toplayarak rakiplerine
+üstünlük sağlayabilir.
+
+(DETAYLAR PDFDE)

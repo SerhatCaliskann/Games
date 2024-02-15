@@ -1,0 +1,8 @@
+Bir dolmuş şöförü gibi oyun oynanıyor. Belli bir map üzerinde haritadaki lokasyonlarda
+rastgele yolcular mevcut. bu yolcuları ücretlerini alarak belirtilen yerlere bırakılıyor.
+oyun saatine göre trafik mevcut ve gaz fren kısmı gerçek hayattaki dengeye sahip.
+bu sayede oyuncu hem dikkatli olmalı hem de kaza yapmamalı.
+yol içerisinde yaptığı kazalar aracın topladığı paralardan düşüyor.
+toplanan paralara karşılık kullanıcı aracını istediği tasarımlara getirebiliyor.
+
+(DETAYLAR PDFDE)

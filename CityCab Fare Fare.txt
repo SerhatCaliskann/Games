@@ -1,0 +1,6 @@
+Bir Sayaç sayesinde taksimetre tasarlanıcak. Bu tasarlanan taksimetrede Gece ve Gündüz modları bulunucak
+oyun saati baz alarak taksimetreyi gece veya gündüz diye ona göre şekillendiricek. kullanıcı map içerisinden 
+yolcuları toplayıp istedikleri konuma götürücek ve bunun karşılığında parasını alıcak. Kazandığı paralar ile
+arabasıyle ilgili tüm eklentileri düzenleme şansına sahip olucak.
+
+(DETAYLAR PDFDE)
